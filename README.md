@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**saeedamer08/saeedamer08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**iamsaeedamer/iamsaeedamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -39,11 +39,11 @@ Passionate about learning and innovation, I'm eager to tackle new challenges and
 
 <h2>⭐ GitHub Stats</h2>
 
-[![Saeed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saeedamer08&show_icons=true)](https://github.com/saeedamer08)
+[![Saeed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamsaeedamer&show_icons=true)](https://github.com/saeedamer08)
 
 <h2>🔠 Languages Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app//api/top-langs/?username=saeedamer08&layout=compact&theme=" />
+<img src="https://github-readme-stats.vercel.app//api/top-langs/?username=iamsaeedamer&layout=compact&theme=" />
 
 
 
