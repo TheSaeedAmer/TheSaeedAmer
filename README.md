@@ -39,11 +39,11 @@ Passionate about learning and innovation, I'm eager to tackle new challenges and
 
 <h2>⭐ GitHub Stats</h2>
 
-[![Saeed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=realsaeedamer&show_icons=true)](https://github.com/realsaeedamer)
+[![Saeed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thesaeedamer&show_icons=true)](https://github.com/thesaeedamer)
 
 <h2>🔠 Languages Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realsaeedamer&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesaeedamer&layout=compact" alt="Top Languages" />
 
 
  
